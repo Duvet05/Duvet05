@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Duvet05
-- 👀 I’m interested in electronics and tech in general. Hope to do a useful contribution to my community
-- 🌱 I’m currently learning CS
+<img src="icon.png" align="right" />
 
-<!---
-Duvet05/Duvet05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hey README!
+You will see here my documentation. Eventually :D
+
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
