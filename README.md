@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Gonzalo Galvez!
 
-I am a **Software Engineer** and a full stack developer, graduate of **Engineering Informatics at Pontificia Universidad Católica del Perú**, with **2 years of experience** developing software solutions for corporate clients and government institutions in Peru. I'm a **natural leader**, capable of building solutions from scratch.
-
+I am a **Software Engineer** and a full stack developer, graduate of **Engineering Informatics at Pontificia Universidad Católica del Perú**, with **2 years of experience** developing software solutions for corporate clients and government institutions in Peru.
 My most significant project to date has been the **implementation of a hospital management system using OpenMRS** in a hospital located in the Peruvian jungle. I have had the opportunity to collaborate with amazing people from around the world, enriching my professional and personal growth.
 
 I am **passionate about developing impactful software solutions** that improve people's lives. 💡
